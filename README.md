@@ -2,6 +2,8 @@
 
 Sitio web de portafolio profesional publicado en GitHub y Vercel.
 
+**URL en Vivo:** [https://dataaaaaa.vercel.app](https://dataaaaaa.vercel.app)
+
 ## Características
 
 - Snapshot estático de alta fidelidad con todas las rutas (`/`, `/work`, y proyectos detallados).
